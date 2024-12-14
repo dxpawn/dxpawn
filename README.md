@@ -1,5 +1,36 @@
-- A champion 🏆  with 4700 HP  329 Armor   and 201 MR 🙎‍♂️ 👨  has 🛒 🌳 Unstoppable, 🏃🏻‍♂️ 🏃🏻‍♂️ a Shield, 🛡 🛡 and goes 🎆 over 🥳🎉🥳🎉 walls , has 🈶 👏💹 Airborne , and cooldown is only ☝️ 1 👸 second ✨ too 🤗 😱 It costs 💵💸 15 🦎 🦎 Mana‍ The W 🧚 🧚 CD 💿 is even 🌃 refreshed when ⏰ 👌😂 he 📝📝🔭👀😎 🚹 transforms  He 📷 has 🤔👉 true 💯 damage 🤬 🤬  on ➡️🔛 🔛 his 👉🚹 👇😛👹 Passive. Then, 🤯 when 👆🕙⏰ 😳🥵 he 👍 📷 stacks 📷 📷  Armor and MR 👨  he 👨 📷 gets Ability Haste too 😱 🐝  Ability Haste to his 👋 🦶🏻 Q  and his 😠 spell 💪 💪 casting speeds up ☝️  Then, 🤖🤖 😪 he 👨 📷 has 👏 🌳 an AD ratio 🔢 🔢  so he 👦 has 👏 W... 👨‍🦱👨‍🦱 🧚 W 🧚 🧚 is like 💞😚👨‍❤️‍💋‍👨 eee 😭 aaaaaaaaaaaa 😲😲
+# 👋 Hi there, I'm dxpawn!
+
+Welcome to my GitHub profile! I'm a student at the VNU University of Engineering and Technology, majoring in Artificial Intelligence, with a huge obsession for Biology and Medicine.
+
+---
+
+## 🚀 About me
+
+- 🔭 I’m currently working on [**3D modelling with Blender**]
+- 🌱 I’m learning Python and its libraries
+- 💬 I'm not into questions or chit-chats right now, sorry :(
+- 📫 How to reach me: **If destined, even a thousand miles apart, one can meet; if not destined, even face-to-face, one may not recognize.**
+- ⚡ Fun fact: I should have gone to med school instead 😂😞
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dxpawn&show_icons=true&theme=radical)
+
+---
+
+## 🌟 Featured projects
+
+Here are some of my projects:
+
+- **[English Dictionary](https://github.com/dxpawn/OOP-DictionaryProject)**: [Previously a functional English dictionary, it's now an old war relic that no longer works...]
+
+---
+
+### Thanks for reading, teehee <3
+
 <!---
-dxpawn/dxpawn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- **[Project Name](Project Link)**: [Brief Description]
 --->
+
