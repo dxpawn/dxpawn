@@ -1,5 +1,20 @@
 <h1 align="center">Hi 👋, I'm Dan Nguyen Vu</h1>
-<h3 align="center">A clueless boy in his 20s...</h3>
+
+<p align="center">
+Someone goes wherever they wish,<br>
+yet discovers that vast as the world is,<br>
+there’s nowhere to belong.
+</p>
+
+<p align="center">
+Someone drifts through a sea of faces,<br>
+yet finds no harbor to anchor in.<br>
+They call it freedom,<br>
+only because they don’t want to say<br>
+it’s loneliness.
+</p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dxpawn&label=Profile%20views&color=0e75b6&style=flat" alt="dxpawn" /> </p>
 
