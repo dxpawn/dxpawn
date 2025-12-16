@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/talononxanax" target="blank"><img src="https://img.shields.io/twitter/follow/talononxanax?logo=twitter&style=for-the-badge" alt="talononxanax" /></a> </p>
 
-- 🔭 I’m currently working on **surviving university.**
+- 🔭 I’m currently working on: **surviving university.**
 
-- 🌱 I’m currently learning **a LOT of things that are not related to my major.**
+- 🌱 I’m currently learning: **a LOT of things that are not related to my major.**
 
-- ⚡ Fun fact **I should have chosen med school 3 years ago**
+- ⚡ Fun fact: **I should have chosen med school 3 years ago**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
