@@ -20,11 +20,16 @@ it’s loneliness.
 
 <p align="left"> <a href="https://twitter.com/talononxanax" target="blank"><img src="https://img.shields.io/twitter/follow/talononxanax?logo=twitter&style=for-the-badge" alt="talononxanax" /></a> </p>
 
-- 🔭 I’m currently working on: **surviving university.**
+- 🔭 I’m currently working on: **graduating ASAP and making a significant career pivot.**
 
-- 🌱 I’m currently learning: **a LOT of things that are not related to my major.**
+- 🌱 I’m currently learning: **a LOT of things unrelated to my major**. Including, but not limited to:
+  + HSK4 (adaptive goal tbh)
+  + 9.0 IELTS (currently 8.5, I want 9.0 by year-end)
+  + Drawing!!! I wanna draw like [Paroro](https://x.com/Parorou), very cute artstyle
+  + TESOL 120hr (or CELTA if I have the moolah to burn)
+  + Economics (u can never have "too much" money)
 
-- ⚡ Fun fact: **I should have chosen med school 3 years ago**
+- ⚡ Fun fact: **I should have gone to NEU**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
