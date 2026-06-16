@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dan Nguyen Vu</h1>
+<h1 align="center">Hi 👋, I'm Nguyen Dan Vu</h1>
 
 <p align="center">
 Someone goes wherever they wish,<br>
@@ -17,8 +17,6 @@ it’s loneliness.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dxpawn&label=Profile%20views&color=0e75b6&style=flat" alt="dxpawn" /> </p>
-
-<p align="left"> <a href="https://twitter.com/talononxanax" target="blank"><img src="https://img.shields.io/twitter/follow/talononxanax?logo=twitter&style=for-the-badge" alt="talononxanax" /></a> </p>
 
 - 🔭 I’m currently working on: **graduating ASAP and making a significant career pivot.**
 
