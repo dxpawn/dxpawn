@@ -21,18 +21,13 @@ it’s loneliness.
 - 🔭 I’m currently working on: **graduating ASAP and making a significant career pivot.**
 
 - 🌱 I’m currently learning: **a LOT of things unrelated to my major**. Including, but not limited to:
-  + HSK4 (adaptive goal tbh)
-  + 9.0 IELTS (currently 8.5, I want 9.0 by year-end)
+  + HSK... whatever fits my tiny brain
+  + 9.0 IELTS (currently 8.5, I want 9.0 by year-end, but I guess I can't grad early and have sth like that at the same time)
   + Drawing!!! I wanna draw like [Paroro](https://x.com/Parorou), very cute artstyle
   + TESOL 120hr (or CELTA if I have the moolah to burn)
   + Economics (u can never have "too much" money)
 
 - ⚡ Fun fact: **I should have gone to NEU**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/talononxanax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="talononxanax" height="30" width="40" /></a>
-</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dxpawn&show_icons=true&locale=en&layout=compact" alt="dxpawn" /></p>
